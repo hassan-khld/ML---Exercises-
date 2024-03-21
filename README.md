@@ -1,5 +1,5 @@
-## ML---Exercises-
-# Practice Exercises for Machine Learning Course
+# ML-Exercises
+## Practice Exercises for Machine Learning Course
 
 
 a) Write a function in Python that takes two vectors as input (weight and feature vector) and
